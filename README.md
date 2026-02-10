@@ -28,12 +28,12 @@ I don't just write code; I build systems. My focus is on creating seamless full-
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Christian-Gates-1968&theme=gitdimmed&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bhawani0820&theme=gitdimmed&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
   
   <br/>
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christian-Gates-1968&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawani0820&theme=tokyonight" alt="Profile Details" />
 
 </div>
